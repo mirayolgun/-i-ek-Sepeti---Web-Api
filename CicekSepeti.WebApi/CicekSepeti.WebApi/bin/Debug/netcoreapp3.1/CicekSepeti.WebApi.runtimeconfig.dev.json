@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\miray\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\miray\\.nuget\\packages"
-    ]
-  }
-}
