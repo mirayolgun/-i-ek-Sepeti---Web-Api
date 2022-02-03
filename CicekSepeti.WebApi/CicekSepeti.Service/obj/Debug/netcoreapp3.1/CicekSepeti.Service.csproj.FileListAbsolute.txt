@@ -1,0 +1,4 @@
+C:\Users\miray\source\repos\CicekSepeti.WebApi\CicekSepeti.Service\obj\Debug\netcoreapp3.1\CicekSepeti.Service.AssemblyInfoInputs.cache
+C:\Users\miray\source\repos\CicekSepeti.WebApi\CicekSepeti.Service\obj\Debug\netcoreapp3.1\CicekSepeti.Service.AssemblyInfo.cs
+C:\Users\miray\source\repos\CicekSepeti.WebApi\CicekSepeti.Service\obj\Debug\netcoreapp3.1\CicekSepeti.Service.csproj.CoreCompileInputs.cache
+C:\Users\miray\source\repos\CicekSepeti.WebApi\CicekSepeti.Service\obj\Debug\netcoreapp3.1\CicekSepeti.Service.csproj.AssemblyReference.cache
