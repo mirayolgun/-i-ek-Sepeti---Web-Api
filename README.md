@@ -1,6 +1,6 @@
 
 <h2>Introduction</h2>
-This ASP NET Core API project does add and list products, add products to card, list products in card.</br> 
+This ASP .NET Core API project does add and list products, add products to card, list products in card.</br> 
 
 <h4>Features</h4>
 
