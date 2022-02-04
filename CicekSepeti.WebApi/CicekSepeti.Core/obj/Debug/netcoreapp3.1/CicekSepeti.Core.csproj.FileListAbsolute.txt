@@ -1,0 +1,11 @@
+C:\Users\miray\source\repos\CicekSepeti.WebApi\CicekSepeti.Core\bin\Debug\netcoreapp3.1\CicekSepeti.Core.deps.json
+C:\Users\miray\source\repos\CicekSepeti.WebApi\CicekSepeti.Core\bin\Debug\netcoreapp3.1\CicekSepeti.Core.runtimeconfig.json
+C:\Users\miray\source\repos\CicekSepeti.WebApi\CicekSepeti.Core\bin\Debug\netcoreapp3.1\CicekSepeti.Core.runtimeconfig.dev.json
+C:\Users\miray\source\repos\CicekSepeti.WebApi\CicekSepeti.Core\bin\Debug\netcoreapp3.1\CicekSepeti.Core.dll
+C:\Users\miray\source\repos\CicekSepeti.WebApi\CicekSepeti.Core\bin\Debug\netcoreapp3.1\CicekSepeti.Core.pdb
+C:\Users\miray\source\repos\CicekSepeti.WebApi\CicekSepeti.Core\obj\Debug\netcoreapp3.1\CicekSepeti.Core.AssemblyInfoInputs.cache
+C:\Users\miray\source\repos\CicekSepeti.WebApi\CicekSepeti.Core\obj\Debug\netcoreapp3.1\CicekSepeti.Core.AssemblyInfo.cs
+C:\Users\miray\source\repos\CicekSepeti.WebApi\CicekSepeti.Core\obj\Debug\netcoreapp3.1\CicekSepeti.Core.csproj.CoreCompileInputs.cache
+C:\Users\miray\source\repos\CicekSepeti.WebApi\CicekSepeti.Core\obj\Debug\netcoreapp3.1\CicekSepeti.Core.dll
+C:\Users\miray\source\repos\CicekSepeti.WebApi\CicekSepeti.Core\obj\Debug\netcoreapp3.1\CicekSepeti.Core.pdb
+C:\Users\miray\source\repos\CicekSepeti.WebApi\CicekSepeti.Core\obj\Debug\netcoreapp3.1\CicekSepeti.Core.genruntimeconfig.cache
