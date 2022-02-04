@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CicekSepeti.Service",
+    "\\CicekSepeti.Service\\bin",
+    "\\CicekSepeti.Service\\bin\\Debug",
+    "\\CicekSepeti.Service\\bin\\Debug\\netcoreapp3.1",
+    "\\CicekSepeti.Service\\bin\\Release",
+    "\\CicekSepeti.Service\\bin\\Release\\netcoreapp3.1",
+    "\\CicekSepeti.WebApi",
+    "\\CicekSepeti.WebApi\\bin",
+    "\\CicekSepeti.WebApi\\bin\\Release",
+    "\\CicekSepeti.WebApi\\bin\\Release\\netcoreapp3.1"
+  ],
+  "PreviewInSolutionExplorer": false
+}
