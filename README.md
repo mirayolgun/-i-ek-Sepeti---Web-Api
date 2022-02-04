@@ -6,7 +6,7 @@ I provided communicate micro services via gateway and I created CRUD endpoints.
 <h4>Features</h4>
 
 <ul>
-  <li>Product and Card Stock control</li>
+  <li>Stock controls of product and card</li>
   <li>Repository Design Pattern</li>
   <li>Layered Architecture</li>
   <li>Testable</li>
