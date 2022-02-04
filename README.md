@@ -8,7 +8,7 @@ I provided communicate micro services via gateway and I created CRUD endpoints.
 <ul>
   <li>Product and Card Stock control</li>
   <li>Repository Design Pattern</li>
-  <li><Layered Architecture</li>
+  <li>Layered Architecture</li>
   <li>Testable</li>
   <li>Not require Manual DB installation</li>
 </ul> 
