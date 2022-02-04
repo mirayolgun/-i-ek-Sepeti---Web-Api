@@ -1,7 +1,6 @@
 
 <h2>Introduction</h2>
 This ASP NET Core API project does add and list products, add products to cart, list products in cart.</br> 
-I provided communicate micro services via gateway and I created CRUD endpoints.
 
 <h4>Features</h4>
 
